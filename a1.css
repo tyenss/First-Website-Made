@@ -1,0 +1,95 @@
+title
+{
+    color:rgb(50, 50, 50);
+}
+
+#top
+{
+    font: bold;
+    color: #0f0f55;
+}
+
+.bib
+{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 12px;
+    background-color: rgb(66, 124, 126);
+}
+
+a:hover
+{
+    background-color: blue;
+}
+
+#limit +p
+{
+    height: 400 px;
+    width: 80%;
+}
+
+body
+{
+    background-color: #27342C;
+    font-Family: Arial, Sans-serif, Times;
+    color: white;
+}
+
+li
+{
+    float: left;
+    display: block
+}
+
+a
+{
+    display: block;
+    padding: 8px;
+    background-color: #27342C;
+}
+
+ul
+{
+    list-style-type: none;
+    position:fixed;
+    margin: 0;
+    top: 0;
+    width: 100%;
+    overflow: hidden;
+    padding: 10px;
+    background-color: #27342C;
+    color:white;
+
+}
+
+li:hover
+{
+    background-color: whitesmoke;
+}
+
+h6
+{
+    border: 2px green double;
+    text-align: center;
+}
+
+h5
+{
+    color: grey;
+    font: bold;
+    text-align: center;
+    font-size: 30px;
+}
+
+p
+{
+    color: white;
+    text-align: left;
+    margin: auto;
+    width: 50%;
+    padding: 5px;
+}
+
+a, a:hover, a:active, a:visited
+{
+    color: white;
+}
